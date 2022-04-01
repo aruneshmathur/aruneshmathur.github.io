@@ -1,0 +1,136 @@
+-
+  title: "Mitigating dataset harms requires stewardship: Lessons from 1000 papers"
+  authors: "Kenneth L. Peng, Arunesh Mathur, Arvind Narayanan"
+  venue: "Neural Information Processing Systems (NeurIPS 2021)"
+  pdf: "https://arxiv.org/pdf/2108.02922.pdf"
+  comment: "Oral presentation"
+-
+  title: "What Makes a Dark Pattern... Dark? Design Attributes, Normative Considerations, and Measurement Methods"
+  authors: "Arunesh Mathur, Jonathan Mayer, Mihir Kshirsagar"
+  venue: "ACM Conference on Human Factors in Computing Systems (CHI 2021)"
+  pdf: "https://arxiv.org/pdf/2101.04843.pdf"
+  slides: "/files/talks/CHI21_WhatMakesDarkPattern_Slides.pdf"
+  video: "https://www.youtube.com/watch?v=vM3FJqno61A"
+-
+  title: "Manipulative tactics are the norm in political emails: Evidence from 100K emails from the 2020 U.S. election cycle"
+  authors: "Arunesh Mathur, Angelina Wang, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan"
+  venue: "Preprint"
+  pdf: "https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf"
+  corpus: "https://electionemails2020.org"
+-
+  title: "Dark Patterns: Past, Present, and Future"
+  authors: "Arvind Narayanan, Arunesh Mathur, Marshini Chetty, Mihir Kshirsagar"
+  venue: "ACM Queue"
+  pdf: "https://queue.acm.org/detail.cfm?id=3400901"
+-
+  title: "Is This An Ad?:  Automatically Disclosing Online Endorsements On YouTube With AdIntuition"
+  authors: "Michael Swart, Ylana Lopez, Arunesh Mathur, Marshini Chetty"
+  venue: "ACM Conference on Human Factors in Computing Systems (CHI 2020)"
+  pdf: "/files/publications/CHI20_AdIntuition.pdf"
+  code: "https://github.com/mike-swart/AdIntuition"
+-
+  title: "Nudge Me Right: Personalizing Online Nudges to People's Decision-Making Styles"
+  authors: "Eyal Peer, Serge Egelman, Marian Harbach, Nathan Malkin, Arunesh Mathur, Alisa Frik"
+  venue: "Computers in Human Behavior (Volume 109), 2020."
+  pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3324907"
+-
+  title: "Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices"
+  authors: "Hooman Mohajeri Moghaddam, Gunes Acar, Ben Burgess, Arunesh Mathur, Danny Yuxing Huang, Nick Feamster, Edward W. Felten, Prateek Mittal, Arvind Narayanan"
+  venue: "ACM Conference on Computer and Communications Security (CCS 2019)"
+  blog: "https://freedom-to-tinker.com/2019/09/18/watching-you-watch-the-tracking-ecosystem-of-over-the-top-tv-streaming-devices"
+  pdf: "https://tv-watches-you.princeton.edu/tv-tracking-acm-ccs19.pdf"
+  website: "https://tv-watches-you.princeton.edu/"
+  code: "https://github.com/citp/ott-tracking"
+  note: "Runner up for the Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies"
+-
+  title: "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites"
+  authors: "Arunesh Mathur, Gunes Acar, Michael Friedman, Elena Lucherini, Jonathan Mayer, Marshini Chetty, Arvind Narayanan"
+  venue: "ACM Computer Supported Collaborative Work and Social Computing (CSCW 2019)"
+  code: "https://github.com/aruneshmathur/dark-patterns"
+  pdf: "https://arxiv.org/pdf/1907.07032.pdf"
+  website: "https://webtransparency.cs.princeton.edu/dark-patterns/"
+  note: "FPF Privacy Papers for Policy Makers Award"
+  slides: "/files/talks/CSCW19_DarkPatterns_Slides.pdf"
+-
+  title: "Keepers of the Machines: Examining How System Administrators Manage Software Updates For Multiple Machines"
+  authors: "Frank Li, Lisa Rogers, Arunesh Mathur, Nathan Malkin, Marshini Chetty"
+  venue: "USENIX Symposium on Usable Privacy and Security (SOUPS 2019)"
+  note: "Distinguished Paper Award"
+-
+  title: "Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and Pinterest"
+  authors: "Arunesh Mathur, Arvind Narayanan, Marshini Chetty"
+  venue: "ACM Computer Supported Collaborative Work and Social Computing (CSCW 2018)"
+  blog: "https://medium.com/@aruneshmathur/was-this-an-ad-an-investigation-of-paid-social-media-endorsements-3ab12231d3d8"
+  pdf: "https://arxiv.org/pdf/1809.00620.pdf"
+  note: "Best Paper Award"
+  code: "https://github.com/aruneshmathur/affiliate-marketing-disclosures"
+  slides: "/files/talks/CSCW18_Disclosures_Slides.pdf"
+-
+  title: "Characterizing the Use of Browser-Based Blocking Extensions To Prevent Online Tracking"
+  authors: "Arunesh Mathur, Jessica Vitak, Arvind Narayanan, Marshini Chetty"
+  venue: "USENIX Symposium on Usable Privacy and Security (SOUPS 2018)"
+  pdf: "/files/publications/SOUPS18_Tracking.pdf"
+  slides: "/files/talks/SOUPS18_Blocking_Extensions.pdf"
+
+-
+  title: "Discovering Smart Home Internet of Things Privacy Norms Using Contextual Integrity"
+  authors: "Noah Apthorpe, Yan Shvartzshnaider, Arunesh Mathur, Dillon Reisman, Nick Feamster"
+  venue: "ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT 2018)"
+  pdf: "https://dl.acm.org/citation.cfm?id=3214262"
+
+-
+  title: "An Empirical Study of Affiliate Marketing Disclosures on YouTube and Pinterest"
+  authors: "Arunesh Mathur, Arvind Narayanan, Marshini Chetty"
+  venue: "IEEE Workshop on Technology and Consumer Protection (ConPro 2018)"
+  pdf: "/files/publications/Affiliate_Disclosure__ConPro_2018_.pdf"
+  slides: "/files/talks/ConPro18_Disclosures_Slides.pdf"
+  blog: "https://freedom-to-tinker.com/2018/03/26/is-affiliate-marketing-disclosed-to-consumers-on-social-media/"
+
+-
+  title: "Quantifying Users' Beliefs about Software Updates"
+  authors: "Arunesh Mathur, Nathan Malkin, Marian Harbach, Eyal Peer, Serge Egelman"
+  venue: "NDSS Workshop on Usable Security (USEC 2018)"
+  pdf: "/files/publications/USEC18_Updates.pdf"
+  slides: "https://docs.google.com/presentation/d/1uKbNP85OBYCGJHlKgrf6TxQ_y--Bv_MO7MO9lr3fltM/"
+  note: "Best Paper, People's Choice"
+
+-
+  title: "Impact of User Characteristics on Attitudes Towards Automatic Mobile Application Updates"
+  authors: "Arunesh Mathur, Marshini Chetty"
+  venue: "USENIX Symposium on Usable Privacy and Security (SOUPS 2017)"
+  slides: "/files/talks/SOUPS17_Updates_Slides.pdf"
+  pdf: "/files/publications/SOUPS17_Updates.pdf"
+
+-
+  title: "Personalized Security Messaging: Nudges for Compliance with Browser Warnings"
+  authors: "Nathan Malkin, Arunesh Mathur, Serge Egelman, Marian Harbach"
+  venue: "IEEE European Workshop on Usable Security (EuroUSEC 2017)"
+  pdf: "http://www.guanotronic.com/~serge/papers/eurousec17.pdf"
+
+-
+  title: "A Human-Centered Approach to Improving the User Experience of Software Updates"
+  authors: "Arunesh Mathur"
+  venue: "Master's Thesis, University of Maryland, College Park (2016)"
+  pdf: "http://drum.lib.umd.edu/handle/1903/18819"
+
+-
+  title: "\"They Keep Coming Back Like Zombies\": Improving Software Update Interfaces"
+  authors: "Arunesh Mathur, Josefine Engel, Sonam Sobti, Victoria Chang, Marshini Chetty"
+  venue: "USENIX Symposium on Usable Privacy and Security (SOUPS 2016)"
+  slides: "/files/talks/SOUPS16_Updates_Slides.pdf"
+  pdf: "/files/publications/SOUPS16_Updates.pdf"
+
+-
+  title: "A Mixed-Methods Study of Mobile Users' Data Usage Practices in South Africa"
+  authors: "Arunesh Mathur, Brent Schlotfeldt, Marshini Chetty"
+  venue: "ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2015)"
+  slides: "/files/talks/Ubicomp15_Mobile_Data_South_Africa_Slides.pdf"
+  pdf: "/files/publications/Ubicomp15_Mobile_Data_South_Africa.pdf"
+
+-
+  title: "An Empirical Study of License Violations in Open Source Projects"
+  authors: "Arunesh Mathur, Harshal Choudhary, Priyank Vashist, William Thies, Santhi Thilagam"
+  venue: "IEEE Software Engineering Workshop (SEW 2012)"
+  slides: "/files/talks/SEW35_slides.pdf"
+  pdf: "/files/publications/SEW35_paper.pdf"
+
