@@ -1,4 +1,15 @@
 -
+  title: "Manipulative tactics are the norm in political emails: Evidence from 300K emails from the 2020 U.S. election cycle"
+  authors: "Arunesh Mathur, Angelina Wang, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan"
+  venue: "Big Data & Society 2022"
+  pdf: "https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf"
+  corpus: "https://electionemails2020.org"
+-
+  title: "You, Me, and IoT: How Internet-Connected Consumer Devices Affect Interpersonal Relationships"
+  authors: "Noah Apthorpe, Pardis Emami-Naeini, Arunesh Mathur, Marshini Chetty, Nick Feamster"
+  venue: "ACM Transactions on Internet of Things (TOIT 2022)"
+  pdf: "https://dl.acm.org/doi/pdf/10.1145/3539737"
+-
   title: "Mitigating dataset harms requires stewardship: Lessons from 1000 papers"
   authors: "Kenneth L. Peng, Arunesh Mathur, Arvind Narayanan"
   venue: "Neural Information Processing Systems (NeurIPS 2021)"
@@ -11,12 +22,6 @@
   pdf: "https://arxiv.org/pdf/2101.04843.pdf"
   slides: "/files/talks/CHI21_WhatMakesDarkPattern_Slides.pdf"
   video: "https://www.youtube.com/watch?v=vM3FJqno61A"
--
-  title: "Manipulative tactics are the norm in political emails: Evidence from 100K emails from the 2020 U.S. election cycle"
-  authors: "Arunesh Mathur, Angelina Wang, Carsten Schwemmer, Maia Hamin, Brandon M. Stewart, Arvind Narayanan"
-  venue: "Preprint"
-  pdf: "https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf"
-  corpus: "https://electionemails2020.org"
 -
   title: "Dark Patterns: Past, Present, and Future"
   authors: "Arvind Narayanan, Arunesh Mathur, Marshini Chetty, Mihir Kshirsagar"
