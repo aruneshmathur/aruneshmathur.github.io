@@ -6,7 +6,7 @@ permalink: /
 
 <p><img src="/files/pic_Fotor.png" id="mug-shot" alt="mug-shot"/> I work in the Data Science Center at <a href="https://www.cornerstone.com/">Cornerstone Research</a> in the United Kingdom.</p>
 
-<p>I'm interested in problems at the nexus of artificial intelligence, human&ndash;computer interaction, and technology policy, with an emphasis on data privacy and platform regulation.</p>
+<p>My work lies at the nexus of artificial intelligence, human&ndash;computer interaction, and technology policy, with an emphasis on data privacy and platform regulation.</p>
 
 <p>Previously, I was a researcher in the Data, Technology, and Insights (DTI) directorate at the <a href="https://www.gov.uk/government/organisations/competition-and-markets-authority">Competition &amp; Markets Authority (CMA)</a>.</p>
 
